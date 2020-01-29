@@ -1,0 +1,10 @@
+<config>
+    <properties>
+        <property name="name" value="MyUser"/>
+        <property name="description" value="It is a user thing"/>
+        <property name="category" value="things"/>
+        <property name="short-name" value="myuser"/>
+    </properties>
+</config>
+
+                
