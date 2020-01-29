@@ -1,0 +1,10 @@
+<config>
+    <properties>
+        <property name="name" value="pressuresensor"/>
+        <property name="description" value="It is pressure sensor"/>
+        <property name="category" value="things"/>
+        <property name="short-name" value="pressure"/>
+    </properties>
+</config>
+
+                
